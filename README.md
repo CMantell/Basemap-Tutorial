@@ -8,13 +8,13 @@ My ideal teaching schema for this tutorial:
 
 > 1. Map Making - Coordinates, Map Extent, and Resolution (Done)
 > 2. Projections (Done)
-> 3. Adding XY data
+> 3. Adding XY data (Done)
 > 4. Using Shapefiles (Need to find process to easily change projected coordinate systems into geographic coordinate systems)
 > 5. Accessing Shapefile Attributes
-> 6. Selecting Locations Based on Attributes 
+> 6. Selecting Locations Based on Attributes
 
 **Please feel free to fork, clone, pull, and give feedback!**
 
 You can reach the author at: chris.mantell@gmail.com
 
-Last updated: 4/11/18
+Last updated: 4/13/18
